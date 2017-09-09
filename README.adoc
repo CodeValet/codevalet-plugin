@@ -1,0 +1,7 @@
+= Code Valet plugin
+
+This repository contains a link:https://jenkins.io[Jenkins] plugin which
+integrates basic and essential link:https://codevalet.io[Code Valet]
+functionality into the Jenkins interface.
+
+
